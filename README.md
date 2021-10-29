@@ -9,7 +9,7 @@ Apache사에서 제공한 Druid의 분석 환경을 제공하기 위한 docker-c
 Java remote debugging에서 아래와 같이 입력합니다.
 
 <pre>-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:8998</pre>
-
+![20211029120310](https://user-images.githubusercontent.com/43310843/139366944-93010fec-3fa9-47d6-a1a4-c51d430c4bee.png)
 # 주의 사항
 #### wordpress를 가동 시킬 php 버전은 8버전이어야 합니다.
 #### 위 취약점을 불법으로 악용할 시, 법적 책임을 지지 않습니다.
